@@ -1,7 +1,3 @@
-public class helloworld
-{
-	public static void main(String[] args){
-   System.print.ln("/f");
-   System.print.ln("Hello World");
-	}
- }
+#Hello World Java Program
+
+This is the easiest java program and the base of all java programs. 
